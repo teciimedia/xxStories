@@ -898,3 +898,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.10-01.12.27:589][206]LogHttp: Warning: 000002615D0F1600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2023.03.10-01.12.27:589][206]LogHttp: Warning: 000002615D0F1600: libcurl info message cache 1 (Closing connection 0)
 [2023.03.10-01.12.27:589][206]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B729BBDDD-43BF-65CB-6945-E18F59669472%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=eb5f239e4392a8d1c0f26aa81b4b2399%7C4b624107d4df47cca8024f016a665a75%7C4bb432cc-de17-42b7-a8a5-cd8feb1e473b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.10-01.24.31:313][890]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.03.10-01.24.31:313][890]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.03.10-01.24.31:313][890]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.03.10-01.24.31:313][890]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.03.10-01.24.31:313][890]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.03.10-01.24.31:313][890]LogWindows: Warning: URL: C:\Users\kttj5\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.03.10-01.24.31:313][890]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.03.10-01.24.31:313][890]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.03.10-01.24.31:314][890]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.03.10-01.24.31:314][890]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.03.10-01.24.31:314][890]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.03.10-01.24.31:314][890]LogWindows: Warning: URL: C:\Users\kttj5\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.03.10-01.24.31:314][890]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.03.10-01.24.31:314][890]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.03.10-01.25.26:150][ 24]LogSlate: Took 0.023715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
